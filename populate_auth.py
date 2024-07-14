@@ -59,4 +59,4 @@ print("live feed token updated")
 update_token(history_jwt_token, 'auth', 'history')
 print("history auth token updated")
 
-time.sleep(10)
+time.sleep(5)
